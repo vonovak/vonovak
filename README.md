@@ -17,7 +17,7 @@ Some of my packages (Google Sign In and Document Picker + Viewer) have special s
 - react-native-add-calendar-event [> 25k weekly downloads](https://www.npmjs.com/package/react-native-add-calendar-event)
 - react-native-simple-toast [> 20k weekly downloads](https://www.npmjs.com/package/react-native-simple-toast)
 - react-navigation-header-buttons [> 3k weekly downloads](https://www.npmjs.com/package/react-navigation-header-buttons)
-...
+- ...
 
 ### Where I actively contribute:
 
