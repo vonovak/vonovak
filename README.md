@@ -2,7 +2,7 @@
 
 I'm Vojtech and I'm the author / maintainer of several packages for React Native.
 
-Some of my packages (Google Sign In and Document Picker / Viewer) have special sponsor-only versions - **if you're a sponsor, you get something extra in return**, Read more in my [sponsors profile](https://github.com/sponsors/vonovak).
+Some of my packages (Google Sign In and Document Picker / Viewer) have special sponsor-only versions - **if you're a sponsor, you get something extra in return**. Read more in my [sponsors profile](https://github.com/sponsors/vonovak).
 
 📫 How to reach me: find me on discord at `vonovak` or use the contact information in the left sidebar.
 
