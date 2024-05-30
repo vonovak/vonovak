@@ -8,7 +8,7 @@ Some of my packages (Google Sign In and Document Picker + Viewer) have special s
 
 📫 How to reach me: find me on discord at `vonovak` or use the contact information in the left sidebar.
 
-### Packages I authored / maintain:
+### I maintain / contribute to:
 
 - [react-native-theme-control](https://www.npmjs.com/package/@vonovak/react-native-theme-control): the best way I know to control your app's theming
 - @react-native-community/datetimepicker [> 400k weekly downloads](https://www.npmjs.com/package/@react-native-community/datetimepicker)
@@ -17,12 +17,10 @@ Some of my packages (Google Sign In and Document Picker + Viewer) have special s
 - react-native-add-calendar-event [> 25k weekly downloads](https://www.npmjs.com/package/react-native-add-calendar-event)
 - react-native-simple-toast [> 20k weekly downloads](https://www.npmjs.com/package/react-native-simple-toast)
 - react-navigation-header-buttons [> 3k weekly downloads](https://www.npmjs.com/package/react-navigation-header-buttons)
-- ...
 
-### Where I actively contribute:
+- linguiJS: my favorite lib for localizing your JS apps [>200k weekly downloads](https://www.npmjs.com/package/@lingui/core)
+- ... and a bunch of other, including Google Sign in iOS SDK [here](https://github.com/google/GoogleSignIn-iOS/pull/402) and [here](https://github.com/openid/AppAuth-iOS/pull/788) or [RN core](https://github.com/facebook/react-native/commits?author=vonovak)
 
-- linguiJS: my favorite lib for localizing your JS apps [>190k weekly downloads](https://www.npmjs.com/package/@lingui/core)
-- ... and a bunch of other, including [RN core](https://github.com/facebook/react-native/commits?author=vonovak)
 
 
 <!--
