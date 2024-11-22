@@ -2,9 +2,11 @@
 
 My name is Vojtech and I'm a full-stack dev. I use React, React Native, Node and TypeScript. I'm passionate about solid engineering and crafting dependable, impactful solutions. 
 
-I'm also the author and maintainer of several packages for React Native. 
+I'm also the author and maintainer of several packages for React Native.
 
-📫 How to reach me: find me on discord at `vonovak` or use the contact information in the left sidebar.
+### 📫 How to reach me
+
+Find me on discord at `vonovak` or use the contact information in the left sidebar.
 
 <!--
 **vonovak/vonovak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
