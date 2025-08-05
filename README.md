@@ -6,7 +6,7 @@ I'm also the author and maintainer of several packages for React Native.
 
 ### 📫 How to reach me
 
-Find me on discord at `vonovak` (please send me a message, not just a friend request so I know the discussion topic) or use the contact information in the left sidebar.
+Find me on discord at `vonovak` (send me a meaningful message, not just a friend request so I know the discussion topic) or use the contact information in the left sidebar.
 
 <!--
 **vonovak/vonovak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
